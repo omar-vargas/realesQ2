@@ -11,7 +11,8 @@ Developed at **CodeFest Ad Astra**
 
 ## How to Run
 Download the repository
-Import as a module the file reto.py
+Import as a module the file reto2.py
+install the NEEDED libraries
 Great you can consult by text, by query , by url
 
 
